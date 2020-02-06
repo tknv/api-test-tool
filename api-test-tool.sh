@@ -46,7 +46,7 @@ SCRIPT_CONF=`pwd`"/ah-ref-app.conf"
 SCRIPT_NAME="api-test-tool"
 
 APP_NAME="api-test-tool"
-APP_IMG="tmunzer/api-test-tool"
+APP_IMG="tknv/api-test-tool"
 OAUTH_CALLBACK="oauth/reg"
 
 LETSENCRYPT_ENABLE=true
